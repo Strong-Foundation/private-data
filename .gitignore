@@ -1,2 +1,5 @@
 # Ignore the Directory
 Private_Folder/
+
+# Ignore the new .md files
+*.md
